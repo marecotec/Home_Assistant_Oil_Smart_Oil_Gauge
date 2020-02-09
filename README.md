@@ -1,2 +1,2 @@
-# Home_Assistant_Oil_Smart_Oil_Gauge
+#Smart Oil Gauge
 Web scraper for the Smart Oil Gauge to bring data into Home Assistant
